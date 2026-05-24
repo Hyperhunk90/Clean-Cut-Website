@@ -1,0 +1,21 @@
+{
+  "name": "Clean Cut Property Maintenance L.L.C.",
+  "short_name": "Clean Cut",
+  "description": "Residential and commercial lawn care across Central, Baton Rouge, Denham Springs and Pride, Louisiana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0a06",
+  "theme_color": "#0d0a06",
+  "icons": [
+    {
+      "src": "/assets/img/logo-sm.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/logo.png",
+      "sizes": "720x720",
+      "type": "image/png"
+    }
+  ]
+}
